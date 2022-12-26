@@ -1,0 +1,28 @@
+.top{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 0;
+}
+.right{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 0;
+}
+.left{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 0;
+}
+.bottom{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 0;
+}
+h1{
+    text-align: center;
+    margin-top: 70px;
+}
